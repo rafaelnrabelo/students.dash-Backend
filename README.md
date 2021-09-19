@@ -3,14 +3,6 @@
   <br/>
   <img src="https://user-images.githubusercontent.com/55251721/133930263-b9668899-447d-4f9d-ab74-09dc12e8ab92.png" width=310 />
 </h1>
-<h2 align="center">
-  <a href="https://github.com/rafaelnrabelo/NoteList-Backend#testando">
-    <img src="https://img.shields.io/badge/Testing-Install-%23FFFFFF" alt="testing"/>
-  </a>
-  <a href="https://github.com/rafaelnrabelo/NoteList-Backend/releases/latest">
-    <img src="https://img.shields.io/badge/Last%20Release-2.1.1-%23FFFFFF" alt="release"/>
-  </a>
-</h2>
     
 ## Dependências
   - NodeJS
