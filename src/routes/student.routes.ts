@@ -9,6 +9,7 @@ import uploadConfig from "../config/upload";
 export const studentRoutes = Router();
 const upload = multer(uploadConfig);
 
+// Listar
 studentRoutes.get(
   "/list/:page",
   celebrate({
@@ -19,7 +20,7 @@ studentRoutes.get(
   StudentController.index
 );
 
-// Listar
+// Detalhe
 studentRoutes.get(
   "/:id",
   celebrate({
